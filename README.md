@@ -7,7 +7,7 @@
 **A security-focused academic platform for student resources, administrative oversight, session control, automated notifications, and activity analytics.**
 
 <p>
-  <a href="https://academicportal2.vercel.app/"><strong>🌐 Open Live Portal</strong></a>
+  <a href="https://secure-academic-portal.vercel.app/"><strong>🌐 Open Live Portal</strong></a>
   &nbsp;•&nbsp;
   <a href="#-features-at-a-glance"><strong>Explore Features</strong></a>
   &nbsp;•&nbsp;
@@ -259,7 +259,7 @@ The project includes useful access and account-protection controls, but these do
 ### [Open the Secure Academic Portal](https://academicportal2.vercel.app/)
 
 **Deployment platform:** Vercel  
-**Live URL:** <https://academicportal2.vercel.app/>
+**Live URL:** <https://secure-academic-portal.vercel.app/>
 
 </div>
 
@@ -305,7 +305,7 @@ The following items are **future plans**, not current capabilities unless separa
 | Course | BCA — Data Science & Artificial Intelligence |
 | Institution | Babu Banarasi Das University (BBDU) |
 | Presentation | IBM Day |
-| Live deployment | [academicportal2.vercel.app](https://academicportal2.vercel.app/) |
+| Live deployment | [academicportal2.vercel.app](https://secure-academic-portal.vercel.app/) |
 
 ---
 
